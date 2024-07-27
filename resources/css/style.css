@@ -243,7 +243,7 @@ html {
     font-weight: bold;
     text-decoration: none;
     color: #ffffff;
-  
+    transition: opacity 500ms ease;
   }
   
   .button:hover {
